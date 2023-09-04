@@ -12,10 +12,14 @@
 
 
     <ItemGroup>
-      <Folder Include="Domain\Entities\" />
-      <Folder Include="Domain\Exceptions\" />
+      <Folder Include="Domain\Services\" />
+      <Folder Include="Driven\AuthService\" />
       <Folder Include="Driven\EwwDatabase\" />
-      <Folder Include="Driving\" />
+      <Folder Include="Driven\UserStorage\" />
+      <Folder Include="Driving\Admin\" />
+      <Folder Include="Driving\Common\" />
+      <Folder Include="Driving\Developer\" />
+      <Folder Include="Driving\Ewwer\" />
     </ItemGroup>
 
 </Project>

@@ -1,0 +1,1 @@
+﻿## MessageQueue mean a queue of a dto represent for Message entity
